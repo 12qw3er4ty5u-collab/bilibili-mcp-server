@@ -21,7 +21,7 @@ An MCP server powered by public Bilibili APIs so AI agents can search videos and
 ### Option 1: pip
 
 ```bash
-git clone https://github.com/your-github-username/bilibili-mcp-server.git
+git clone https://github.com/12qw3er4ty5u-collab/bilibili-mcp-server.git
 cd bilibili-mcp-server
 python -m venv .venv
 ```
