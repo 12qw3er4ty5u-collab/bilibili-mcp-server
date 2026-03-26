@@ -89,7 +89,7 @@ class BilibiliClient:
 
         limit = max(1, min(limit, 50))
         data = self._get(
-            "/x/web-interface/search/type",
+            "/x/web-interface/wbi/search/type",
             {"search_type": "video", "keyword": keyword},
             {"Referer": f"https://search.bilibili.com/all?keyword={keyword}"},
         )
