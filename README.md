@@ -51,7 +51,7 @@ python server.py
 ### Option 2: uv
 
 ```bash
-git clone https://github.com/your-github-username/bilibili-mcp-server.git
+git clone https://github.com/12qw3er4ty5u-collab/bilibili-mcp-server.git
 cd bilibili-mcp-server
 uv venv
 ```
